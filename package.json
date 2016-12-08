@@ -1,0 +1,11 @@
+{
+  "name": "pome-collection",
+  "version": "0.1.0",
+  "main": "./lib/collection",
+  "author": {
+    "name": "XiaogangZhang",
+    "email": "zhang0925@gmail.com"
+  },
+  "dependencies": {
+  }
+}
